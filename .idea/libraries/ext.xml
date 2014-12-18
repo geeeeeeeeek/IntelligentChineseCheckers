@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ext">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ext/audio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/j3dutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/j3dcore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

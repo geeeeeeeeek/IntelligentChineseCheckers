@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="ext">
+    <archive path="D:/Users/Tong/workspace/ChineseCheckers/ext/audio.jar" />
+    <archive path="D:/Users/Tong/workspace/ChineseCheckers/ext/j3dutils.jar" />
+    <archive path="D:/Users/Tong/workspace/ChineseCheckers/ext/vecmath.jar" />
+    <archive path="D:/Users/Tong/workspace/ChineseCheckers/ext/j3dcore.jar" />
+  </library>
+</eclipse-userlibraries>
+
